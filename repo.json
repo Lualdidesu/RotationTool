@@ -9,8 +9,8 @@
     "ApplicableVersion": "any",
     "AssemblyVersion": "1.0.4.0",
     "DalamudApiLevel": 14,
-    "DownloadLinkInstall": "https://github.com/Lualdidesu/RotationTool/releases/download/v1.0.4/RotationTool.dll",
-    "DownloadLinkUpdate": "https://github.com/Lualdidesu/RotationTool/releases/download/v1.0.4/RotationTool.dll",
-    "DownloadLinkTesting": "https://github.com/Lualdidesu/RotationTool/releases/download/v1.0.4/RotationTool.dll"
+    "DownloadLinkInstall": "https://github.com/Lualdidesu/RotationTool/releases/download/v1.0.4/RotationTool.zip",
+    "DownloadLinkUpdate": "https://github.com/Lualdidesu/RotationTool/releases/download/v1.0.4/RotationTool.zip",
+    "DownloadLinkTesting": "https://github.com/Lualdidesu/RotationTool/releases/download/v1.0.4/RotationTool.zip"
   }
 ]
