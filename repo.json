@@ -1,0 +1,16 @@
+[
+  {
+    "Author": "Rua",
+    "Name": "RotationTool",
+    "InternalName": "RotationTool",
+    "Punchline": "Practice rotations with a flowing icon timeline.",
+    "Description": "Shows a skill-rotation timeline overlay.",
+    "RepoUrl": "https://github.com/Lualdidesu/RotationTool",
+    "ApplicableVersion": "any",
+    "AssemblyVersion": "1.0.0.0",
+    "DalamudApiLevel": 14,
+    "DownloadLinkInstall": "https://github.com/Lualdidesu/RotationTool/releases/latest/download/RotationTool.dll",
+    "DownloadLinkUpdate": "https://github.com/Lualdidesu/RotationTool/releases/latest/download/RotationTool.dll",
+    "DownloadLinkTesting": "https://github.com/Lualdidesu/RotationTool/releases/latest/download/RotationTool.dll"
+  }
+]
