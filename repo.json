@@ -7,10 +7,10 @@
     "Description": "Shows a skill-rotation timeline overlay.",
     "RepoUrl": "https://github.com/Lualdidesu/RotationTool",
     "ApplicableVersion": "any",
-    "AssemblyVersion": "1.0.0.0",
+    "AssemblyVersion": "1.0.4.0",
     "DalamudApiLevel": 14,
-    "DownloadLinkInstall": "https://github.com/Lualdidesu/RotationTool/releases/latest/download/RotationTool.zip",
-    "DownloadLinkUpdate": "https://github.com/Lualdidesu/RotationTool/releases/latest/download/RotationTool.zip",
-    "DownloadLinkTesting": "https://github.com/Lualdidesu/RotationTool/releases/latest/download/RotationTool.zip"
+    "DownloadLinkInstall": "https://github.com/Lualdidesu/RotationTool/releases/download/v1.0.4/RotationTool.dll",
+    "DownloadLinkUpdate": "https://github.com/Lualdidesu/RotationTool/releases/download/v1.0.4/RotationTool.dll",
+    "DownloadLinkTesting": "https://github.com/Lualdidesu/RotationTool/releases/download/v1.0.4/RotationTool.dll"
   }
 ]
