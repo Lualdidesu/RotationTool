@@ -5,17 +5,11 @@
     "InternalName": "RotationTool",
     "Punchline": "Practice rotations with a flowing icon timeline.",
     "Description": "Shows a skill-rotation timeline overlay.",
-    "Tags": [
-      "Utility",
-      "Combat"
-    ],
     "RepoUrl": "https://github.com/Lualdidesu/RotationTool",
     "ApplicableVersion": "any",
-    "LastUpdate": 1736200000,
     "DownloadLinkInstall": "https://github.com/Lualdidesu/RotationTool/releases/latest/download/RotationTool.zip",
     "DownloadLinkUpdate": "https://github.com/Lualdidesu/RotationTool/releases/latest/download/RotationTool.zip",
     "DownloadLinkTesting": "https://github.com/Lualdidesu/RotationTool/releases/latest/download/RotationTool.zip",
-    "AcceptsFeedback": true,
     "DalamudApiLevel": 14
   }
 ]
